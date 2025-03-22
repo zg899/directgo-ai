@@ -35,3 +35,31 @@ Build a new AI-based travel experience that is fair, transparent, and direct —
 - Device: iPhone 16 Pro (iOS 18.3)
 
 ## 🗂️ Folder Structure (Coming Soon)
+
+/DirectGo-ai
+├── ContentView.swift
+├── PhotoPicker.swift
+└── LaunchScreen.storyboard
+
+
+## 📆 Dev Log
+
+- **2025-03-22**: Initial UI and photo upload done. Preparing for design module.
+- **2025-03-23**: Added editable itinerary input + color scheme.
+
+## 🤖 AI Co-Pilots
+
+This project is reviewed by both **ChatGPT** and **Grok**. Suggestions from both AIs are integrated and compared before applying to production.
+
+## 💡 Next Steps
+
+- [ ] LaunchScreen view
+- [ ] Editable ItineraryCard module
+- [ ] AppIcon design
+- [ ] Real AI parsing (Vision API or OCR)
+
+---
+
+## 🔗 License
+
+MIT License © 2025 DirectGo.ai
